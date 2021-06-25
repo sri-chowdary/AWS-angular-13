@@ -1,4 +1,4 @@
-# Practice Challenge 1
+# Create Password Validator Component
 
 Secure Tech Limited is a New York based IT solutions provider. They excel in providing software solutions in various domains ranging from banking, insurance to e-commerce. Securing the users&#39; data is one of the most essential and standard requirements among all types of products. Users of these products are required to authenticate their identities before accessing the application. To authenticate, the user is expected to provide login credentials. The password must be strong, and the strength is a combination of length and characters used. Since this is a common requirement, the firm wants its frontend developers to develop a reusable component that takes a password as input and validates it based on the length criteria specifications. Additionally, the component is expected to take the error message to be displayed as input. So, as a Frontend Developer, you are expected to carry out the task of building a PasswordValidator component and testing locally.
 
